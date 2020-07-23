@@ -1,0 +1,42 @@
+body
+{
+  margin: 0;
+}
+.drums
+{
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #347238;
+  margin: 0;
+}
+.intro
+{
+  height: 350px;
+  position: relative;
+}
+.drumkit
+{
+  height: 300px;
+  width: 30%;
+  position: absolute;
+  left: 460px;
+
+}
+.division
+{
+  width: 100%;
+  height: 60px;
+  background-color: #006a71;
+  line-height: 10px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+.s{
+  position:absolute;
+  width: 50px;
+  height: 50px;
+  background-image: url("images/snare.jpg");
+  background-size: cover;
+}
